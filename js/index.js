@@ -11,13 +11,14 @@ function checkAllOpenedAndSetHeight() {
     let count = plusImgs.filter(
       (img) => img.style.display !== "none" && window.getComputedStyle(img).display !== "none"
     ).length;
-    if (count === 1) {
+    const openedCount = plusImgs.length - count;
+    if (openedCount === 1) {
       faqSection.style.height = "560px";
-    } else if (count === 2) {
+    } else if (openedCount === 2) {
       faqSection.style.height = "620px";
-    } else if (count === 3) {
+    } else if (openedCount === 3) {
       faqSection.style.height = "680px";
-    } else if (count === 4) {
+    } else if (openedCount === 4) {
       faqSection.style.height = "740px";
     } else {
       faqSection.style.height = "";
@@ -29,13 +30,14 @@ function checkAllOpenedAndSetHeight() {
     let count = plusImgs.filter(
       (img) => img.style.display !== "none" && window.getComputedStyle(img).display !== "none"
     ).length;
-    if (count === 1) {
+    const openedCount = plusImgs.length - count;
+    if (openedCount === 1) {
       faqSection.style.height = "500px";
-    } else if (count === 2) {
+    } else if (openedCount === 2) {
       faqSection.style.height = "560px";
-    } else if (count === 3) {
+    } else if (openedCount === 3) {
       faqSection.style.height = "640px";
-    } else if (count === 4) {
+    } else if (openedCount === 4) {
       faqSection.style.height = "710px";
     } else {
       faqSection.style.height = "";
@@ -47,15 +49,53 @@ function checkAllOpenedAndSetHeight() {
     let count = plusImgs.filter(
       (img) => img.style.display !== "none" && window.getComputedStyle(img).display !== "none"
     ).length;
-
-    if (count === 1) {
+    const openedCount = plusImgs.length - count;
+    if (openedCount === 1) {
       faqSection.style.height = "610px";
-    } else if (count === 2) {
+    } else if (openedCount === 2) {
       faqSection.style.height = "680px";
-    } else if (count === 3) {
+    } else if (openedCount === 3) {
       faqSection.style.height = "750px";
-    } else if (count === 4) {
+    } else if (openedCount === 4) {
       faqSection.style.height = "800px";
+    } else {
+      faqSection.style.height = "";
+    }
+    return;
+  }
+
+  if (width > 500 && width <= 850) {
+    let count = plusImgs.filter(
+      (img) => img.style.display !== "none" && window.getComputedStyle(img).display !== "none"
+    ).length;
+    const openedCount = plusImgs.length - count;
+    if (openedCount === 1) {
+      faqSection.style.height = "";
+    } else if (openedCount === 2) {
+      faqSection.style.height = "";
+    } else if (openedCount === 3) {
+      faqSection.style.height = "850px";
+    } else if (openedCount === 4) {
+      faqSection.style.height = "930px";
+    } else {
+      faqSection.style.height = "";
+    }
+    return;
+  }
+
+  if (width > 850 && width <= 1040) {
+    let count = plusImgs.filter(
+      (img) => img.style.display !== "none" && window.getComputedStyle(img).display !== "none"
+    ).length;
+    const openedCount = plusImgs.length - count;
+    if (openedCount === 1) {
+      faqSection.style.height = "";
+    } else if (openedCount === 2) {
+      faqSection.style.height = "";
+    } else if (openedCount === 3) {
+      faqSection.style.height = "850px";
+    } else if (openedCount === 4) {
+      faqSection.style.height = "930px";
     } else {
       faqSection.style.height = "";
     }
@@ -67,13 +107,6 @@ function checkAllOpenedAndSetHeight() {
     return;
   }
 
-  if (width <= 1040 && width >= 851) {
-    faqSection.style.height = "864px";
-  } else if (width <= 850 && width >= 501) {
-    faqSection.style.height = "950px";
-  } else if (width <= 500 && width >= 376) {
-    faqSection.style.height = "600px";
-  }
 }
 
 document.querySelectorAll(".q_flex").forEach(function (q_flex) {
