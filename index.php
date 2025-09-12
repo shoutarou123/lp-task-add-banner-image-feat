@@ -147,7 +147,9 @@
           </div>
 
           <div class="usinaware_text_content">
-            <h2><p>失われていく「企業の知」、放置していませんか？</p></h2>
+            <h2>
+              <p>失われていく「企業の知」、放置していませんか？</p>
+            </h2>
           </div>
 
           <div class="beteran_text_content">
@@ -210,9 +212,9 @@
         </div>
 
         <div class="usinaware_text_content solution">
-          <h3><p>その課題、AIナレッジ基盤「SkillRelay」で解決します。</p></h3>
-          <span class="sono_text hidden">その課題、AIナレッジ基盤</span>
-          <span class="skill_text hidden">「SkillRelay」<span class="kaiketu_text">で解決します。</span></span>
+          <h3>
+            <p>その課題、AIナレッジ基盤<br class="text_br hidden" /><span class="skill_text">「SkillRelay」で解決します。</span></p>
+          </h3>
         </div>
 
         <div class="beteran_text_content solution">
@@ -317,9 +319,9 @@
         </div>
 
         <div class="usinaware_text_content how">
-          <h2><p>SkillRelayは、単なるFAQチャットボットではありません。</p></h2>
-          <p class="title_sp hidden">SkillRelayは、単なる</p>
-          <p class="title_sp hidden">FAQチャットボットではありません。</p>
+          <h2>
+            <p>SkillRelayは、単なる<br class="text_br hidden" />FAQチャットボットでは<br class="text_br hidden" />ありません。</p>
+          </h2>
           <span>熟練者の思考プロセスそのものをAIが学習し、再現可能に。</span>
           <span>知識の属人化を防ぎ、組織の知を資産化します。</span>
         </div>
@@ -433,7 +435,9 @@
         </div>
 
         <div class="jurai_text_content">
-          <h2><p>従来手法や汎用AIでは実現できない価値</p></h2>
+          <h2>
+            <p>従来手法や汎用AIでは実現できない価値</p>
+          </h2>
           <p class="sub_text top">
             従来のマニュアルや汎用AIでは補えない
           </p>
@@ -618,10 +622,8 @@
         </div>
 
         <div class="small_start_text_content">
-          <h2><p class="small_text_pc">導入はスモールスタート。効果を見ながら安心して拡張可能。</p></h2>
-          <h2><p class="small_text hidden">導入はスモールスタート。</p>
-          <p class="small_text hidden">効果を見ながら安心して</p>
-          <p class="small_text hidden">拡張可能。</p>
+          <h2>
+            <p class="small_text_pc">導入はスモールスタート。<br class="text_br hidden" />効果を見ながら安心して<br class="text_br hidden" />拡張可能。</p>
           </h2>
           <p class="sub_text process top">
             小さく始めて早く成果を出し、その後段階的に広げられるので、
@@ -820,10 +822,8 @@
         </div>
 
         <div class="plan_text_content">
-          <h2><p class="plan_text_pc">ご利用規模に合わせた最適なプランをご提案します</p></h2>
           <h2>
-          <p class="plan_text_sp top hidden">ご利用規模に合わせた</p>
-          <p class="plan_text_sp bottom hidden">最適なプランをご提案します</p>
+            <p class="plan_text_pc">ご利用規模に合わせた<br class="text_br hidden" />最適なプランをご提案します</p>
           </h2>
         </div>
       </div>
@@ -870,7 +870,9 @@
             <p class="blue_rectangle_text black">FAQ</p>
           </div>
           <div class="title_content_faq">
-            <h2><p>よくあるご質問</p></h2>
+            <h2>
+              <p>よくあるご質問</p>
+            </h2>
           </div>
         </div>
 
@@ -969,9 +971,8 @@
 
   <section class="last_section">
     <div class="last_title_content">
-      <h2><p>熟練者の知見をAIに知識継承し、未来につなげませんか？</p></h2>
-      <h2><p class="last_title_sp hidden">熟練者の知見をAIに知識継承し、</p>
-      <p class="last_title_sp hidden">未来につなげませんか？</p>
+      <h2>
+        <p>熟練者の知見をAIに知識継承し、<br class="text_br hidden" />未来につなげませんか？</p>
       </h2>
     </div>
     <div class="last_section_text_content">
@@ -988,19 +989,19 @@
         <a class="dl_button_bgimg" href="https://taiziii.com/contact/?service=skillrelay&inquiry_type=download">
           <span class="dl_text">無料相談&資料請求はこちら</span>
           <img
-              class="icon_img"
-              src="./img/pc/arrow.png"
-              srcset="./img/pc/arrow@2x.png 2x, ./img/pc/arrow.png 1x"
-              width="26"
-              height="26"
-              alt="矢印画像" />
+            class="icon_img"
+            src="./img/pc/arrow.png"
+            srcset="./img/pc/arrow@2x.png 2x, ./img/pc/arrow.png 1x"
+            width="26"
+            height="26"
+            alt="矢印画像" />
           <img
-              class="icon_img_sp hidden"
-              src="./img/sp/sp-arrow.png"
-              srcset="./img/sp/sp-arrow@2x.png 2x, ./img/sp/sp-arrow.png 1x"
-              width="22"
-              height="21"
-              alt="矢印画像" />
+            class="icon_img_sp hidden"
+            src="./img/sp/sp-arrow.png"
+            srcset="./img/sp/sp-arrow@2x.png 2x, ./img/sp/sp-arrow.png 1x"
+            width="22"
+            height="21"
+            alt="矢印画像" />
         </a>
       </div>
     </div>
@@ -1021,11 +1022,11 @@
     <p class="copylight_text">©2025 taiziii Inc.All Rights Reserved.</p>
     <div class="footer_content_fixed hidden">
       <a href="https://taiziii.com/contact/?service=skillrelay&inquiry_type=download">
-      <div class="button_content_flex_sp hidden">
-        <div class="bg_blue_button">
-          <p>無料相談&資料請求はこちら</p>
+        <div class="button_content_flex_sp hidden">
+          <div class="bg_blue_button">
+            <p>無料相談&資料請求はこちら</p>
+          </div>
         </div>
-      </div>
     </div>
 
   </footer>
