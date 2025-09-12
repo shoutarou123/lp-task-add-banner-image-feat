@@ -1445,7 +1445,6 @@ li {
   }
 
   .white_rectangle_img img {
-    width: 400px;
     margin-left: 30px;
   }
 
@@ -1803,7 +1802,6 @@ li {
   .white_rectangle_img_sp {
     display: block;
     margin: 0 auto 10px auto;
-    width: 500px;
   }
 
   .white_rectangle_content p {
@@ -2425,10 +2423,6 @@ li {
     width: 450px;
   }
 
-  .white_rectangle_img_sp {
-    width: 360px;
-  }
-
   /* ********** COMPARISON section ************ */
   .jurai_text_content p:first-child {
     font-size: 30px;
@@ -2810,10 +2804,6 @@ li {
 
   .white_rectangle_content p {
     margin-left: 10px;
-  }
-
-  .white_rectangle_img_sp {
-    width: 311px;
   }
 
   .white_rectangle_text {
@@ -3690,10 +3680,6 @@ li {
 
   .how_rectangle_content_flex {
     width: 320px;
-  }
-
-  .white_rectangle_img_sp {
-    width: 280px;
   }
 
   .white_rectangle_content img:first-of-type {

@@ -52,43 +52,48 @@
         <img
           class="logo_img"
           src="./img/pc/logo.png"
-          srcset="./img/pc/logo.png 2x,
-                  ./img/pc/logo.png 1x"
-          alt="ロゴ画像" />
+          srcset="./img/pc/logo@2x.png 2x, ./img/pc/logo.png 1x"
+          width="135"
+          height="40"
+          alt="taiziii" />
         <img
           class="logo_img_sp hidden"
           src="./img/sp/sp-logo.png"
-          srcset="./img/sp/sp-logo.png 2x,
-                  ./img/sp/sp-logo.png 1x"
-          alt="ロゴ画像" />
+          srcset="./img/sp/sp-logo@2x.png 2x, ./img/sp/sp-logo.png 1x"
+          width="103"
+          height="31"
+          alt="taiziii" />
         <a href="https://taiziii.com/contact/?service=skillrelay&inquiry_type=consultation">
           <img
             class="button_img"
             src="./img/pc/contact-button.png"
-            srcset="./img/pc/contact-button.png 2x,
-                    ./img/pc/contact-button.png 1x"
-            alt="ボタン画像" />
+            srcset="./img/pc/contact-button@2x.png 2x, ./img/pc/contact-button.png 1x"
+            width="263"
+            height="68"
+            alt="お問い合わせ" />
         </a>
       </div>
 
       <div class="sub_title_content">
         <p class="sub_title_text">現場に眠るノウハウをDXで活かしたい経営層・部門責任者・人事担当の方へ</p>
       </div>
-      <div class="catchphrase_img_content">
+      <h1 class="catchphrase_img_content">
         <img
           class="catchphrase_img"
           src="./img/pc/catch.png"
-          srcset="./img/pc/catch.png 2x,
-                  ./img/pc/catch.png 1x"
-          alt="キャッチコピー画像" />
+          srcset="./img/pc/catch@2x.png 2x, ./img/pc/catch.png 1x"
+          width="1080"
+          height="240"
+          alt="SkillRelay（スキルリレー） | ベテラン社員の経験やノウハウを、AIで誰もが使える知識資産に変換しませんか？" />
         <img
           class="catchphrase_img hidden"
           src="./img/sp/sp-catch.png"
-          srcset="./img/sp/sp-catch.png 2x,
-                  ./img/sp/sp-catch.png 1x"
-          alt="キャッチコピー画像" />
+          srcset="./img/sp/sp-catch@2x.png 2x, ./img/sp/sp-catch.png 1x"
+          width="343"
+          height="145"
+          alt="SkillRelay（スキルリレー） | ベテラン社員の経験やノウハウを、AIで誰もが使える知識資産に変換しませんか？" />
 
-      </div>
+      </h1>
       <div class="intai_text_content">
         <p class="intai_text">引退・異動で失われる前に、知見を次世代へ引き継ぐ。属人化リスクを解消する“知識継承AI” SkillRelay</p>
       </div>
@@ -100,14 +105,16 @@
             <img
               class="icon_img"
               src="./img/pc/arrow.png"
-              srcset="./img/pc/arrow.png 2x,
-                      ./img/pc/arrow.png 1x"
+              srcset="./img/pc/arrow@2x.png 2x, ./img/pc/arrow.png 1x"
+              width="26"
+              height="26"
               alt="矢印画像" />
             <img
               class="icon_img_sp hidden"
               src="./img/sp/sp-arrow.png"
-              srcset="./img/sp/sp-arrow.png 2x,
-                      ./img/sp/sp-arrow.png 1x"
+              srcset="./img/sp/sp-arrow@2x.png 2x, ./img/sp/sp-arrow.png 1x"
+              width="22"
+              height="21"
               alt="矢印画像" />
           </a>
         </div>
@@ -117,14 +124,16 @@
         <div class="chat_img_content">
           <img
             src="./img/pc/chat.png"
-            srcset="./img/pc/chat.png 2x,
-                    ./img/pc/chat.png 1x"
+            srcset="./img/pc/chat@2x.png 2x, ./img/pc/chat.png 1x"
+            width="1000"
+            height="550"
             alt="チャットイメージ画像" />
           <img
             class="chat_img hidden"
             src="./img/sp/sp-chat.png"
-            srcset="./img/sp/sp-chat.png 2x,
-                    ./img/sp/sp-chat.png 1x"
+            srcset="./img/sp/sp-chat@2x.png 2x, ./img/sp/sp-chat.png 1x"
+            width="343"
+            height="189"
             alt="チャットイメージ画像" />
         </div>
       </div>
@@ -138,7 +147,7 @@
           </div>
 
           <div class="usinaware_text_content">
-            <p>失われていく「企業の知」、放置していませんか？</p>
+            <h2><p>失われていく「企業の知」、放置していませんか？</p></h2>
           </div>
 
           <div class="beteran_text_content">
@@ -153,8 +162,9 @@
         <div class="white_box">
           <img
             src="./img/pc/hosi.png"
-            srcset="./img/pc/hosi.png 2x,
-                    ./img/pc/hosi.png 1x"
+            srcset="./img/pc/hosi@2x.png 2x, ./img/pc/hosi.png 1x"
+            width="60"
+            height="60"
             alt="アイコン画像" />
           <p>知見の属人化</p>
           <span>
@@ -164,8 +174,9 @@
         <div class="white_box">
           <img
             src="./img/pc/akushu.png"
-            srcset="./img/pc/akushu.png 2x,
-                    ./img/pc/akushu.png 1x"
+            srcset="./img/pc/akushu@2x.png 2x, ./img/pc/akushu.png 1x"
+            width="60"
+            height="60"
             alt="握手アイコン画像" />
           <p>継承の限界</p>
           <span>
@@ -175,8 +186,9 @@
         <div class="white_box">
           <img
             src="./img/pc/clock.png"
-            srcset="./img/pc/clock.png 2x,
-                    ./img/pc/clock.png 1x"
+            srcset="./img/pc/clock.png 2x, ./img/pc/clock.png 1x"
+            width="60"
+            height="60"
             alt="時計アイコン画像" />
           <p>育成コストの増大</p>
           <span>
@@ -198,7 +210,7 @@
         </div>
 
         <div class="usinaware_text_content solution">
-          <p>その課題、AIナレッジ基盤「SkillRelay」で解決します。</p>
+          <h3><p>その課題、AIナレッジ基盤「SkillRelay」で解決します。</p></h3>
           <span class="sono_text hidden">その課題、AIナレッジ基盤</span>
           <span class="skill_text hidden">「SkillRelay」<span class="kaiketu_text">で解決します。</span></span>
         </div>
@@ -214,8 +226,9 @@
     <div class="earth_img_sp hidden">
       <img
         src="./img/sp/sp-earth.png"
-        srcset="./img/sp/sp-earth.png 2x,
-                ./img/sp/sp-earth.png 1x"
+        srcset="./img/sp/sp-earth@2x.png 2x, ./img/sp/sp-earth.png 1x"
+        width="343"
+        height="265"
         alt="地球画像" />
     </div>
 
@@ -226,8 +239,9 @@
           <div class="check_img_content">
             <img
               src="./img/pc/check.png"
-              srcset="./img/pc/check.png 2x,
-                      ./img/pc/check.png 1x"
+              srcset="./img/pc/check@2x.png 2x, ./img/pc/check.png 1x"
+              width="60"
+              height="60"
               alt="チェックアイコン画像" />
           </div>
           <div class="rectangle_solution_text_content">
@@ -240,8 +254,9 @@
           <div class="check_img_content two">
             <img
               src="./img/pc/check.png"
-              srcset="./img/pc/check.png 2x,
-                      ./img/pc/check.png 1x"
+              srcset="./img/pc/check@2x.png 2x, ./img/pc/check.png 1x"
+              width="60"
+              height="60"
               alt="チェックアイコン画像" />
           </div>
           <div class="rectangle_solution_text_content two">
@@ -254,8 +269,9 @@
           <div class="check_img_content">
             <img
               src="./img/pc/check.png"
-              srcset="./img/pc/check.png 2x,
-                      ./img/pc/check.png 1x"
+              srcset="./img/pc/check@2x.png 2x, ./img/pc/check.png 1x"
+              width="60"
+              height="60"
               alt="チェックアイコン画像" />
           </div>
           <div class="rectangle_solution_text_content three">
@@ -301,7 +317,7 @@
         </div>
 
         <div class="usinaware_text_content how">
-          <p>SkillRelayは、単なるFAQチャットボットではありません。</p>
+          <h2><p>SkillRelayは、単なるFAQチャットボットではありません。</p></h2>
           <p class="title_sp hidden">SkillRelayは、単なる</p>
           <p class="title_sp hidden">FAQチャットボットではありません。</p>
           <span>熟練者の思考プロセスそのものをAIが学習し、再現可能に。</span>
@@ -315,15 +331,17 @@
         <div class="white_rectangle_content">
           <img
             src="./img/pc/one.png"
-            srcset="./img/pc/one.png 2x,
-                    ./img/pc/one.png 1x"
+            srcset="./img/pc/one@2x.png 2x, ./img/pc/one.png 1x"
+            width="80"
+            height="48"
             alt="01アイコン画像" />
           <p>あらゆる”知”を収集</p>
           <img
             class="white_rectangle_img_sp hidden"
             src="./img/sp/sp-setumei.png"
-            srcset="./img/sp/sp-setumei.png 2x,
-                    ./img/sp/sp-setumei.png 1x"
+            srcset="./img/sp/sp-setumei@2x.png 2x, ./img/sp/sp-setumei.png 1x"
+            width="311"
+            height="187"
             alt="説明画像" />
           <span class="white_rectangle_text">
             ドキュメント、会議ログ、業務メモ、インタビューなど、形式を問わず幅広い情報を集約。 AIが学習可能な「組織の知識データベース」を構築します。
@@ -332,8 +350,9 @@
         <div class="white_rectangle_img">
           <img
             src="./img/pc/setumei.png"
-            srcset="./img/pc/setumei.png 2x,
-                    ./img/pc/setumei.png 1x"
+            srcset="./img/pc/setumei@2x.png 2x, ./img/pc/setumei.png 1x"
+            width="498"
+            height="300"
             alt="説明画像" />
         </div>
       </div>
@@ -344,15 +363,17 @@
         <div class="white_rectangle_content">
           <img
             src="./img/pc/two.png"
-            srcset="./img/pc/two.png 2x,
-                    ./img/pc/two.png 1x"
+            srcset="./img/pc/two@2x.png 2x, ./img/pc/two.png 1x"
+            width="80"
+            height="48"
             alt="02アイコン画像" />
           <p>“思考の型”を構造化</p>
           <img
             class="white_rectangle_img_sp hidden"
             src="./img/sp/sp-nagare.png"
-            srcset="./img/sp/sp-nagare.png 2x,
-                    ./img/sp/sp-nagare.png 1x"
+            srcset="./img/sp/sp-nagare@2x.png 2x, ./img/sp/sp-nagare.png 1x"
+            width="311"
+            height="188"
             alt="流れ説明画像" />
           <span class="white_rectangle_text">
             「なぜその判断をしたのか」という思考プロセスを分解・整理。 AIが分析し、再現可能なフローとして体系化します。
@@ -361,8 +382,9 @@
         <div class="white_rectangle_img">
           <img
             src="./img/pc/nagare.png"
-            srcset="./img/pc/nagare.png 2x,
-                    ./img/pc/nagare.png 1x"
+            srcset="./img/pc/nagare@2x.png 2x, ./img/pc/nagare.png 1x"
+            width="495"
+            height="300"
             alt="流れ説明画像" />
         </div>
       </div>
@@ -373,15 +395,18 @@
         <div class="white_rectangle_content three">
           <img
             src="./img/pc/three.png"
-            srcset="./img/pc/three.png 2x,
-                    ./img/pc/three.png 1x"
+            srcset="./img/pc/three@2x.png 2x, ./img/pc/three.png 1x"
+            width="80"
+            height="48"
             alt="03アイコン画像" />
           <p>AIエージェントで再現</p>
           <img
             class="white_rectangle_img_sp hidden"
             src="./img/sp/sp-chatsetumei.png"
-            srcset="./img/sp/sp-chatsetumei.png 2x,
-                    ./img/sp/sp-chatsetumei.png 1x"
+            srcset="./img/sp/sp-chatsetumei@2x.png 2x, ./img/sp/sp-chatsetumei.
+            png 1x"
+            width="311"
+            height="183"
             alt="チャット説明画像" />
           <span class="white_rectangle_text three">
             学習した知識や思考パターンを、人に質問するような対話形式で再現。 新人教育から日々の業務支援まで、状況に応じて最適なアドバイスを即座に提供します。
@@ -390,8 +415,9 @@
         <div class="white_rectangle_img">
           <img
             src="./img/pc/chatsetumei.png"
-            srcset="./img/pc/chatsetumei.png 2x,
-                    ./img/pc/chatsetumei.png 1x"
+            srcset="./img/pc/chatsetumei@2x.png 2x, ./img/pc/chatsetumei.png 1x"
+            width="494"
+            height="290"
             alt="チャット説明画像" />
         </div>
       </div>
@@ -407,7 +433,7 @@
         </div>
 
         <div class="jurai_text_content">
-          <p>従来手法や汎用AIでは実現できない価値</p>
+          <h2><p>従来手法や汎用AIでは実現できない価値</p></h2>
           <p class="sub_text top">
             従来のマニュアルや汎用AIでは補えない
           </p>
@@ -444,8 +470,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/batu.png"
-                srcset="./img/pc/batu.png 2x,
-                        ./img/pc/batu.png 1x"
+                srcset="./img/pc/batu@2x.png 2x, ./img/pc/batu.png 1x"
+                width="20"
+                height="30"
                 alt="バツアイコン画像" />
             </div>
             <div class="box_text_block">
@@ -457,8 +484,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/batu.png"
-                srcset="./img/pc/batu.png 2x,
-                        ./img/pc/batu.png 1x"
+                srcset="./img/pc/batu@2x.png 2x, ./img/pc/batu.png 1x"
+                width="20"
+                height="30"
                 alt="バツアイコン画像" />
             </div>
             <div class="box_text_block">
@@ -470,8 +498,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/sankaku.png"
-                srcset="./img/pc/sankaku.png 2x,
-                        ./img/pc/sankaku.png 1x"
+                srcset="./img/pc/sankaku@2x.png 2x, ./img/pc/sankaku.png 1x"
+                width="20"
+                height="30"
                 alt="三角アイコン画像" />
             </div>
             <div class="box_text_block">
@@ -489,8 +518,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/batu.png"
-                srcset="./img/pc/batu.png 2x,
-                        ./img/pc/batu.png 1x"
+                srcset="./img/pc/batu@2x.png 2x, ./img/pc/batu.png 1x"
+                width="20"
+                height="30"
                 alt="バツアイコン画像" />
             </div>
             <div class="box_text_block">
@@ -502,8 +532,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/sankaku.png"
-                srcset="./img/pc/sankaku.png 2x,
-                        ./img/pc/sankaku.png 1x"
+                srcset="./img/pc/sankaku@2x.png 2x, ./img/pc/sankaku.png 1x"
+                width="20"
+                height="30"
                 alt="三角アイコン画像" />
             </div>
             <div class="box_text_block">
@@ -515,8 +546,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/sankaku.png"
-                srcset="./img/pc/sankaku.png 2x,
-                        ./img/pc/sankaku.png 1x"
+                srcset="./img/pc/sankaku@2x.png 2x, ./img/pc/sankaku.png 1x"
+                width="20"
+                height="30"
                 alt="三角アイコン画像" />
             </div>
             <div class="box_text_block">
@@ -534,8 +566,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/nijuumaru.png"
-                srcset="./img/pc/nijuumaru.png 2x,
-                        ./img/pc/nijuumaru.png 1x"
+                srcset="./img/pc/nijuumaru@2x.png 2x, ./img/pc/nijuumaru.png 1x"
+                width="20"
+                height="30"
                 alt="二重丸アイコン画像" />
             </div>
             <div class="box_text_block four">
@@ -547,8 +580,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/nijuumaru.png"
-                srcset="./img/pc/nijuumaru.png 2x,
-                        ./img/pc/nijuumaru.png 1x"
+                srcset="./img/pc/nijuumaru@2x.png 2x, ./img/pc/nijuumaru.png 1x"
+                width="20"
+                height="30"
                 alt="二重丸アイコン画像" />
             </div>
             <div class="box_text_block four">
@@ -560,8 +594,9 @@
             <div class="kigou_img_content">
               <img
                 src="./img/pc/maru.png"
-                srcset="./img/pc/maru.png 2x,
-                        ./img/pc/maru.png 1x"
+                srcset="./img/pc/maru@2x.png 2x, ./img/pc/maru.png 1x"
+                width="20"
+                height="30"
                 alt="丸アイコン画像" />
             </div>
             <div class="box_text_block four">
@@ -583,10 +618,11 @@
         </div>
 
         <div class="small_start_text_content">
-          <p class="small_text_pc">導入はスモールスタート。効果を見ながら安心して拡張可能。</p>
-          <p class="small_text hidden">導入はスモールスタート。</p>
+          <h2><p class="small_text_pc">導入はスモールスタート。効果を見ながら安心して拡張可能。</p></h2>
+          <h2><p class="small_text hidden">導入はスモールスタート。</p>
           <p class="small_text hidden">効果を見ながら安心して</p>
           <p class="small_text hidden">拡張可能。</p>
+          </h2>
           <p class="sub_text process top">
             小さく始めて早く成果を出し、その後段階的に広げられるので、
           </p>
@@ -607,8 +643,9 @@
           <img
             class="white_box_top_img"
             src="./img/pc/gurafu.png"
-            srcset="./img/pc/gurafu.png 2x,
-                    ./img/pc/gurafu.png 1x"
+            srcset="./img/pc/gurafu@2x.png 2x, ./img/pc/gurafu.png 1x"
+            width="190"
+            height="190"
             alt="グラフアイコン画像" />
         </div>
         <div class="step_content_flex_center">
@@ -616,8 +653,9 @@
             <img
               class="step_img"
               src="./img/pc/step1.png"
-              srcset="./img/pc/step1.png 2x,
-                      ./img/pc/step1.png 1x"
+              srcset="./img/pc/step1@2x.png 2x, ./img/pc/step1.png 1x"
+              width="80"
+              height="38"
               alt="step1アイコン画像" />
             <p>要件定義・データ洗い出し</p>
           </div>
@@ -662,8 +700,9 @@
           <img
             class="white_box_top_img"
             src="./img/pc/hosi-blue.png"
-            srcset="./img/pc/hosi-blue.png 2x,
-                    ./img/pc/hosi-blue.png 1x"
+            srcset="./img/pc/hosi-blue@2x.png 2x, ./img/pc/hosi-blue.png 1x"
+            width="190"
+            height="190"
             alt="星アイコン画像" />
         </div>
         <div class="step_content_flex_center">
@@ -671,8 +710,9 @@
             <img
               class="step_img"
               src="./img/pc/step2.png"
-              srcset="./img/pc/step2.png 2x,
-                      ./img/pc/step2.png 1x"
+              srcset="./img/pc/step2@2x.png 2x, ./img/pc/step2.png 1x"
+              width="80"
+              height="38"
               alt="step2アイコン画像" />
             <p>PoC（試験導入）・精度向上</p>
           </div>
@@ -717,8 +757,9 @@
           <img
             class="white_box_top_img"
             src="./img/pc/moniter.png"
-            srcset="./img/pc/moniter.png 2x,
-                    ./img/pc/moniter.png 1x"
+            srcset="./img/pc/moniter@2x.png 2x, ./img/pc/moniter.png 1x"
+            width="190"
+            height="190"
             alt="モニターアイコン画像" />
         </div>
         <div class="step_content_flex_center">
@@ -726,8 +767,9 @@
             <img
               class="step_img"
               src="./img/pc/step3.png"
-              srcset="./img/pc/step3.png 2x,
-                      ./img/pc/step3.png 1x"
+              srcset="./img/pc/step3@2x.png 2x, ./img/pc/step3.png 1x"
+              width="80"
+              height="38"
               alt="step3アイコン画像" />
             <p>本格導入・展開</p>
           </div>
@@ -778,9 +820,11 @@
         </div>
 
         <div class="plan_text_content">
-          <p class="plan_text_pc">ご利用規模に合わせた最適なプランをご提案します</p>
+          <h2><p class="plan_text_pc">ご利用規模に合わせた最適なプランをご提案します</p></h2>
+          <h2>
           <p class="plan_text_sp top hidden">ご利用規模に合わせた</p>
           <p class="plan_text_sp bottom hidden">最適なプランをご提案します</p>
+          </h2>
         </div>
       </div>
     </div>
@@ -798,8 +842,9 @@
         <div class="pricing_white_box_img_content">
           <img
             src="./img/pc/aset.png"
-            srcset="./img/pc/aset.png 2x,
-                    ./img/pc/aset.png 1x"
+            srcset="./img/pc/aset@2x.png 2x, ./img/pc/aset.png 1x"
+            width="294"
+            height="263"
             alt="モニター上で握手しているアイコン画像" />
         </div>
       </div>
@@ -825,7 +870,7 @@
             <p class="blue_rectangle_text black">FAQ</p>
           </div>
           <div class="title_content_faq">
-            <p>よくあるご質問</p>
+            <h2><p>よくあるご質問</p></h2>
           </div>
         </div>
 
@@ -924,9 +969,10 @@
 
   <section class="last_section">
     <div class="last_title_content">
-      <p>熟練者の知見をAIに知識継承し、未来につなげませんか？</p>
-      <p class="last_title_sp hidden">熟練者の知見をAIに知識継承し、</p>
+      <h2><p>熟練者の知見をAIに知識継承し、未来につなげませんか？</p></h2>
+      <h2><p class="last_title_sp hidden">熟練者の知見をAIに知識継承し、</p>
       <p class="last_title_sp hidden">未来につなげませんか？</p>
+      </h2>
     </div>
     <div class="last_section_text_content">
       <p>まずは、貴社の課題をお聞かせください。</p>
@@ -942,17 +988,19 @@
         <a class="dl_button_bgimg" href="https://taiziii.com/contact/?service=skillrelay&inquiry_type=download">
           <span class="dl_text">無料相談&資料請求はこちら</span>
           <img
-            class="icon_img"
-            src="./img/pc/arrow.png"
-            srcset="./img/pc/arrow.png 2x,
-                    ./img/pc/arrow.png 1x"
-            alt="矢印アイコン画像" />
+              class="icon_img"
+              src="./img/pc/arrow.png"
+              srcset="./img/pc/arrow@2x.png 2x, ./img/pc/arrow.png 1x"
+              width="26"
+              height="26"
+              alt="矢印画像" />
           <img
-            class="icon_img_sp hidden"
-            src="./img/sp/sp-arrow.png"
-            srcset="./img/sp/sp-arrow.png 2x,
-                    ./img/sp/sp-arrow.png 1x"
-            alt="矢印アイコン画像" />
+              class="icon_img_sp hidden"
+              src="./img/sp/sp-arrow.png"
+              srcset="./img/sp/sp-arrow@2x.png 2x, ./img/sp/sp-arrow.png 1x"
+              width="22"
+              height="21"
+              alt="矢印画像" />
         </a>
       </div>
     </div>
@@ -972,6 +1020,7 @@
   <footer class="footer_content">
     <p class="copylight_text">©2025 taiziii Inc.All Rights Reserved.</p>
     <div class="footer_content_fixed hidden">
+      <a href="https://taiziii.com/contact/?service=skillrelay&inquiry_type=download">
       <div class="button_content_flex_sp hidden">
         <div class="bg_blue_button">
           <p>無料相談&資料請求はこちら</p>
