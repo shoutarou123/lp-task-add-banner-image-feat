@@ -22,8 +22,8 @@ li {
 /* --------------- */
 
 .fv {
-  /* height: 2180px; */
-  margin-bottom: 1058px;
+  height: 2180px;
+  /* margin-bottom: 1058px; */
 }
 
 .bg_img {
@@ -1094,6 +1094,12 @@ li {
   display: none;
 }
 
+@media screen and (min-width: 1921px) {
+  .bg_img {
+    height: auto;
+  }
+}
+
 @media screen and (max-width: 1360px) {
   .catchphrase_img {
     width: 1000px;
@@ -1536,7 +1542,7 @@ li {
 
   .bg_img {
     padding-top: 0px;
-     /* height: 1080px; */
+    /* height: 1080px; */
   }
 
   .logo_content_flex {
