@@ -304,10 +304,7 @@
           </div>
         </div>
       </div>
-
     </div>
-
-
   </section>
 
   <section class="how_section">
@@ -332,6 +329,7 @@
       <div class="how_rectangle_content_flex">
         <div class="white_rectangle_content">
           <img
+            class="number_icon_one_img"
             src="./img/pc/one.png"
             srcset="./img/pc/one@2x.png 2x, ./img/pc/one.png 1x"
             width="80"
@@ -351,6 +349,7 @@
         </div>
         <div class="white_rectangle_img">
           <img
+            class="setumei_one_img"
             src="./img/pc/setumei.png"
             srcset="./img/pc/setumei@2x.png 2x, ./img/pc/setumei.png 1x"
             width="498"
@@ -364,6 +363,7 @@
       <div class="how_rectangle_content_flex">
         <div class="white_rectangle_content">
           <img
+            class="number_icon_two_img"
             src="./img/pc/two.png"
             srcset="./img/pc/two@2x.png 2x, ./img/pc/two.png 1x"
             width="80"
@@ -383,6 +383,7 @@
         </div>
         <div class="white_rectangle_img">
           <img
+            class="setumei_two_img"
             src="./img/pc/nagare.png"
             srcset="./img/pc/nagare@2x.png 2x, ./img/pc/nagare.png 1x"
             width="495"
@@ -396,6 +397,7 @@
       <div class="how_rectangle_content_flex three">
         <div class="white_rectangle_content three">
           <img
+            class="number_icon_three_img"
             src="./img/pc/three.png"
             srcset="./img/pc/three@2x.png 2x, ./img/pc/three.png 1x"
             width="80"
@@ -416,6 +418,7 @@
         </div>
         <div class="white_rectangle_img">
           <img
+            class="setumei_two_img"
             src="./img/pc/chatsetumei.png"
             srcset="./img/pc/chatsetumei@2x.png 2x, ./img/pc/chatsetumei.png 1x"
             width="494"
@@ -860,8 +863,6 @@
   </section>
 
   <section class="faq_section">
-
-
     <div class="faq_content_center">
       <div class="faq_flex">
         <div class="faq_title_content">
